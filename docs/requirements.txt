@@ -9,4 +9,4 @@ markdown
 black
 ipython>=8.10.0
 setuptools>=65.5.1
-tornado>=6.3.2
+tornado>=6.3.3
