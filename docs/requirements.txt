@@ -10,3 +10,4 @@ black
 ipython>=8.10.0
 setuptools>=65.5.1
 tornado>=6.3.2
+jupyter-server>=2.7.2 # not directly required, pinned by Snyk to avoid a vulnerability
