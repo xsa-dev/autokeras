@@ -1,5 +1,4 @@
-FROM python:3.10.13
-
+FROM python:3.13.0a1
 
 RUN pip install flake8 black isort
 
