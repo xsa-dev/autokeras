@@ -6,3 +6,4 @@ pymdown-extensions
 Sphinx
 markdown
 black
+jupyter-server>=2.11.2
